@@ -36,6 +36,7 @@
      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
+<br>
 
 <p><strong>Frontend</strong></p>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
