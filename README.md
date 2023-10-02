@@ -25,3 +25,13 @@
 <a href="https://palette-studio.fly.dev">
     <img src="https://img.shields.io/badge/Palette-FF61F6?style=for-the-badge#1A285F"> 
 </a>
+
+<hr>
+
+### 💻 Skills 💻
+<p><strong>Backend</strong></p>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+</div>
