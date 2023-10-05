@@ -16,7 +16,7 @@
 <hr>
 
 ### 👩🏻‍💻Portfolio👩🏻‍💻
-<a href="https://curpage.xyz">
+<a href="https://hanihoneykim.github.io/hanikim-portfolio_v2/">
     <img src="https://img.shields.io/badge/Portfolio-83B81A?style=for-the-badge#1A285F"> 
 </a>
 <a href="https://curpage.xyz">
