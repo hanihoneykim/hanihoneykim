@@ -1,7 +1,6 @@
 ## Hi there, I'm Hani Kim 👋
 <hr>
 <p>• I'm Back-end developer. </p>
-<p>• I want to be a super Full stack.</p>
 
 <hr>
 
@@ -16,8 +15,8 @@
 <hr>
 
 ### 👩🏻‍💻Portfolio👩🏻‍💻
-<a href="https://hanihoneykim.github.io/hanikim-portfolio_v2/">
-    <img src="https://img.shields.io/badge/Portfolio-83B81A?style=for-the-badge#1A285F"> 
+<a href="https://arteemarket.xyz/">
+    <img src="https://img.shields.io/badge/ArteeMarket-83B81A?style=for-the-badge#1A285F"> 
 </a>
 <a href="https://curpage.xyz">
     <img src="https://img.shields.io/badge/Curpage-0099E5?style=for-the-badge#1A285F"> 
