@@ -1,6 +1,7 @@
 ## Hi there, I'm Hani Kim 👋
 <hr>
 <p>• I'm Back-end developer. </p>
+<p>• and proficient in Django full-stack development. </p>
 
 <hr>
 
@@ -15,13 +16,13 @@
 <hr>
 
 ### 👩🏻‍💻Portfolio👩🏻‍💻
-<a href="https://arteemarket.xyz/">
+<a>
     <img src="https://img.shields.io/badge/ArteeMarket-83B81A?style=for-the-badge#1A285F"> 
 </a>
-<a href="https://curpage.xyz">
+<a>
     <img src="https://img.shields.io/badge/Curpage-0099E5?style=for-the-badge#1A285F"> 
 </a>
-<a href="https://palette-studio.fly.dev">
+<a>
     <img src="https://img.shields.io/badge/Palette-FF61F6?style=for-the-badge#1A285F"> 
 </a>
 
